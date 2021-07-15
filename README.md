@@ -44,8 +44,8 @@ gotou 15
 ```
 ## Usage
 ### Conversion
-Using a command line interface is recommended. Example: command prompton Windows
-***Make sure Python 3+ is installed on your computer***
+Using a command line interface is recommended. Example: command prompt on Windows<br>
+***Make sure Python 3+ is installed on your computer***<br>
 If not [get it from here](https://www.python.org/downloads/)
 ###### Windows
 1. Type the route to the python file (ex. C:\Users\User\Documents\LengthConverter.py
@@ -57,5 +57,5 @@ Sorry, but if someone know how to do it, thanks for the help!
 ###### Linux
 See the message above
 ### How to write semi-length
-***Knowing how to write length before knowing how to rite semi-length is recommended***
+***Knowing how to write length before knowing how to rite semi-length is recommended***<br>
 [Go to the article about Length](https://esolangs.org/wiki/Length) and go to the Instruction Set section. There's a table containing the commands of Length. Normallyyou would write code by the character counts of the lines (see the note above). But with semi-length, you write whats in the Name coloumn to write the command. If a command has a property you write it in the same line after the command with a space inbetween like this:`push 0`

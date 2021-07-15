@@ -46,7 +46,7 @@ gotou 15
 ### Conversion
 Using a command line interface is recommended. Example: command prompt on Windows<br>
 ***Make sure Python 3+ is installed on your computer***<br>
-If not [get it from here](https://www.python.org/downloads/)
+If not [get it from here](https://www.python.org/downloads)
 ###### Windows
 1. Type the route to the python file (ex. C:\Users\User\Documents\LengthConverter.py
 2. After a SPACE type len-to-semi or semi-to-len. **len-to-semi**: converts the contents of the file to semi-length and prints them out to the console **semi-to-len**: converts the contents of the file to length and prints them out to the console
